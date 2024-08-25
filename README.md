@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Shoaib Khan</h1>
-<h3 align="center">MERN STACK DEVELOPER & ML ENGINEER</h3>
+<h3 align="center">MERN STACK DEVELOPER & DATA ENGINEERING</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaibkhan55&label=Profile%20views&color=0e75b6&style=flat" alt="shoaibkhan55" /> </p>
 
